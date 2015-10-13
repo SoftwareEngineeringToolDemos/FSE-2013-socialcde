@@ -26,4 +26,7 @@ This repository contains information related to the tool Calico, presented at Th
 The website for this tool is here - 
 <a href = "https://socialtfs.codeplex.com/"> SocialCDE </a>
 
+Please note that this repository is not the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
+
+
 This repository was constructed by <a href="https://github.com/juzer10">Juzer Khambaty</a> of Team Onslow under the supervision of <a href="https://github.com/CaptainEmerson">Dr. Emerson Murphy-Hill.</a>
