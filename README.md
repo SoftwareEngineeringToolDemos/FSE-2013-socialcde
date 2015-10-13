@@ -17,3 +17,13 @@ https://github.com/collab-uniba/socialcde4eclipse/wiki
 Varsion 0.1.0 available
 # License
 Microsoft Public License (Ms-PL).
+
+
+<h1>FSE 2013</h1>
+
+This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="https://github.com/collab-uniba/socialcde4eclipse">Project page</a>
+
+The website for this tool is here - 
+<a href = "https://socialtfs.codeplex.com/"> SocialCDE </a>
+
+This repository was constructed by <a href="https://github.com/juzer10">Juzer Khambaty</a> of Team Onslow under the supervision of <a href="https://github.com/CaptainEmerson">Dr. Emerson Murphy-Hill.</a>
