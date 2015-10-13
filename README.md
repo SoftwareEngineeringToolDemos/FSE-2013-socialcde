@@ -29,4 +29,11 @@ The website for this tool is here -
 Please note that this repository is not the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
 
+In this repository, for SocialCDE you will find:
+
+* :white_check_mark: [Source code](https://github.com/collab-uniba/socialcde4eclipse) (available)
+
+* :white_check_mark: [The original tool] (https://github.com/collab-uniba/socialcde4eclipse) (available)
+
+
 This repository was constructed by <a href="https://github.com/juzer10">Juzer Khambaty</a> of Team Onslow under the supervision of <a href="https://github.com/CaptainEmerson">Dr. Emerson Murphy-Hill.</a>
