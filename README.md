@@ -21,13 +21,20 @@ Microsoft Public License (Ms-PL).
 
 <h1>FSE 2013</h1>
 
-This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="https://github.com/collab-uniba/socialcde4eclipse">Project page</a>
+This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="https://socialtfs.codeplex.com">Project page</a>
+https://github.com/collab-uniba/socialcde4eclipse
 
-The website for this tool is here - 
-<a href = "https://socialtfs.codeplex.com/"> SocialCDE </a>
+[ACM Paper] (http://dl.acm.org/citation.cfm?id=2494592&dl=ACM&coll=DL&CFID=554076707&CFTOKEN=37126209)
+[Download Page] (https://socialtfs.codeplex.com/)
 
-Please note that this repository is not the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
+[Source] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde)
+[Binary] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde)
 
+Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
+
+Project Description - 
+SocialCDE for Eclipse is a plugin for all the Eclipse-based IDEs (e.g., Eclipse itself, Aptana Studio 3) that aggregates and displays within the workspace the social content shared by yourteammates’ on social networks.
+This plugin supports GitHub as code repository; Twitter, Yammer and StatusNet (both public and corporate) as microblogs; Facebook and LinkedIn as social networks. 
 
 In this repository, for SocialCDE you will find:
 
@@ -37,3 +44,5 @@ In this repository, for SocialCDE you will find:
 
 
 This repository was constructed by <a href="https://github.com/juzer10">Juzer Khambaty</a> of Team Onslow under the supervision of <a href="https://github.com/CaptainEmerson">Dr. Emerson Murphy-Hill.</a>
+
+Thanks to the original authors 	Fabio Calefato,	Filippo Lanubile for their help in establishing this repository.
