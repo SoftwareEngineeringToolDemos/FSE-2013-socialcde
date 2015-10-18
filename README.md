@@ -22,13 +22,12 @@ Microsoft Public License (Ms-PL).
 <h1>FSE 2013</h1>
 
 This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="https://socialtfs.codeplex.com">Project page</a>
-https://github.com/collab-uniba/socialcde4eclipse
 
-[ACM Paper] (http://dl.acm.org/citation.cfm?id=2494592&dl=ACM&coll=DL&CFID=554076707&CFTOKEN=37126209)
-[Download Page] (https://socialtfs.codeplex.com/)
+[ACM Paper] (http://dl.acm.org/citation.cfm?id=2494592&dl=ACM&coll=DL&CFID=554076707&CFTOKEN=37126209) <br/>
+[Download Page] (https://socialtfs.codeplex.com/) <br/>
 
-[Source] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde)
-[Binary] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde)
+[Source] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde) <br/>
+[Binary] (https://github.com/SoftwareEngineeringToolDemos/FSE-2013-socialcde) <br/>
 
 Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
