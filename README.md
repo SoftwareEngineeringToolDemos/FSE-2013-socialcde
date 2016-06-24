@@ -37,9 +37,9 @@ This plugin supports GitHub as code repository; Twitter, Yammer and StatusNet (b
 
 In this repository, for SocialCDE you will find:
 
-* :white_check_mark: [Source code](https://github.com/collab-uniba/socialcde4eclipse) (available)
-
-* :white_check_mark: [The original tool] (https://github.com/collab-uniba/socialcde4eclipse) (available)
+* :white_check_mark: [Source code](.) (available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 
 This repository was constructed by <a href="https://github.com/juzer10">Juzer Khambaty</a> of Team Onslow under the supervision of <a href="https://github.com/CaptainEmerson">Dr. Emerson Murphy-Hill.</a>
